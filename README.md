@@ -38,12 +38,7 @@ The simulation uses the single-slit diffraction formula to calculate the intensi
 
 ## Example Output
 
-![Simulation Animation](single_slit_diffraction_open.gif)
-
-## Notes
-
-- The simulation assumes a uniform distribution of particles at the slit and calculates the intensity distribution using the single-slit diffraction formula.
-- Adjust the frame rate (`fps`) and other animation settings in `ani.save` for different visual effects.
+![Simulation Animation](single_slit_diffraction.gif)
 
 ## License
 
